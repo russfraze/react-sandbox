@@ -1,10 +1,11 @@
 import './App.css';
-import UseRefExample2 from './components/UseRefExample2'
+import UseMemoExample from './components/UseMemoExample'
 
 function App() {
+
   return (
     <div className="App">
-      <UseRefExample2 />
+      <UseMemoExample />
     </div>
   );
 }

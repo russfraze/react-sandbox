@@ -1,4 +1,4 @@
-import {useState, useEffect, useRef, useInsertionEffect} from 'react'
+import {useState, useEffect, useRef } from 'react'
 
 function UseRefExample2() {
 const [name, setName] = useState('')
